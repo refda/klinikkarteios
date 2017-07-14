@@ -3,16 +3,16 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.briefklick.de"
-        version   = "1.0.5">
+        id        = "com.klinikkarte.de"
+        version   = "1.0.0">
 
     <name>BriefKlick</name>
 
     <description>
-        Mit BriefKlick können Briefe einfach online in Auftrag gegeben werden.
+        Das Klinikverzeichnis.
     </description>
 
-    <author href="https://www.briefklick.de">
+    <author href="https://www.klinikkarte.de">
         BriefKlick
     </author>
 
@@ -116,7 +116,7 @@
     <gap:splash src="res/screen/windows-phone/screen-portrait.jpg"      gap:platform="winphone" />
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-    <string>500</string>
+    <string>100</string>
     </gap:config-file>
 
     <!--

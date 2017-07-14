@@ -13,7 +13,7 @@
 
 Create a new app with the following repository:
 
-    https://github.com/refda/briefklickios.git
+    https://github.com/refda/klinikkarteios.git
 
 ## Contributors
 

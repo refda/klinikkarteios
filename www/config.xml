@@ -6,7 +6,7 @@
         id        = "com.klinikkarte.de"
         version   = "1.0.0">
 
-    <name>BriefKlick</name>
+    <name>Klinikkarte</name>
 
     <description>
         Das Klinikverzeichnis.
